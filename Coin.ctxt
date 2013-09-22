@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=void\ setCoinUsed(boolean)
+comment1.params=
+comment1.target=boolean\ getCoinUsed()
+comment2.params=
+comment2.target=Coin()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ getCoinValue()
+comment5.params=coinValue
+comment5.target=void\ setCoinValue(int)
+numComments=6

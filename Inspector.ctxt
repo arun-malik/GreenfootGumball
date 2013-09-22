@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=void\ getCoin(Coin)
+comment1.params=
+comment1.target=boolean\ isBusy()
+comment2.params=
+comment2.target=void\ selectPicker()
+comment3.params=c
+comment3.target=boolean\ inspectCoin(Coin)
+comment4.params=msg\ x\ y
+comment4.target=void\ displayMessage(java.lang.String,\ int,\ int)
+comment5.params=
+comment5.target=void\ resetPosition()
+numComments=6
